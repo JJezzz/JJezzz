@@ -74,12 +74,5 @@
 
 ---
 
-### 🐍 Contribution Graph  
-<p align="center">
-  <img src="https://github.com/JJezzz_/JJezzz_/blob/output/github-contribution-grid-snake.svg" alt="snake graph" />
-</p>
-
----
-
 ### ⚡ Fun Fact  
 > “The best way to learn coding is by creating something that excites you.”
